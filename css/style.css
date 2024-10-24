@@ -1,10 +1,11 @@
-.p{
+p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.h1{
+h1{
     background-color: lemonchiffon;
 }
-.header{
+
+header{
     text-align: center;
 }
